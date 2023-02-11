@@ -1,24 +1,24 @@
-# todo-list-app
+# Todo List Project
 
-## Project setup
-```
-npm install
-```
+A simple Todo List built with Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Prerequisites
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Node.js
+- npm
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Getting Started
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Clone the repository. `git clone https://github.com/shehab267/simple-todo-list-page`
+2. Navigate to the project directory `cd simple-todo-list-page`
+3. Install the required packages `npm install`
+4. Start the development server `npm run serve`
+5. Open your browser and go to http://localhost:8080 to see the project.
+
+## Built With
+
+- [Vue.js](https://vuejs.org/)
+
+## Author
+
+- **Shehab Hawary** - [shehab267](https://github.com/shehab267)
