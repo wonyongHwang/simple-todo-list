@@ -1,14 +1,17 @@
-import { createStore } from 'vuex'
+import { createStore } from "vuex";
 
 export default createStore({
   state: {
-  },
-  getters: {
+    todos: [],
   },
   mutations: {
+    addTodo(state, todo) {
+      state.todos.push(todo);
+    },
   },
   actions: {
+    addTodo({ commit }, todo) {
+      commit("addTodo", todo);
+    },
   },
-  modules: {
-  }
-})
+});
