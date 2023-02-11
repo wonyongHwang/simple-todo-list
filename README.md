@@ -2,6 +2,8 @@
 
 A simple Todo List built with Vue.js.
 
+##### [Live Demo](https://simple-todo-list-832b1.web.app/)
+
 ## Prerequisites
 
 - Node.js
