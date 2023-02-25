@@ -1,6 +1,6 @@
 # Todo List Project
 
-A simple Todo List built with Vue.js.
+A simple Todo List built with Vue.js
 
 ##### [Live Demo](https://simple-todo-list-832b1.web.app/)
 
