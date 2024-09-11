@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0df0fd32-99a5-4f3c-b43a-6c41878b8e27/deploy-status)](https://app.netlify.com/sites/kopotodo/deploys)
 # Todo List Project
 
 A simple Todo List built with Vue.js
