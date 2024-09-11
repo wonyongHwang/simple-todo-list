@@ -7,7 +7,7 @@
     </form>
     <ul class="todo-list">
       <li v-for="todo in todos" :key="todo.id" class="todo-item">
-        {{ todo.text }}
+        -- {{ todo.text }}
       </li>
     </ul>
   </div>
